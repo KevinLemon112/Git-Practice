@@ -1,4 +1,4 @@
 # Git Practice
 Learning Git step by step.
-I am learning Git collaboration directly on GitHub.
+I am practicing how to resolve Git merge conflicts locally.
 Practicing how to pull remote changes into my local repository.
