@@ -1,4 +1,4 @@
 # Git Practice
 Learning Git step by step.
-Learning how to sync local Git repositories with GitHub.
+I am learning Git collaboration from my Ubuntu VM.
 Practicing how to pull remote changes into my local repository.
