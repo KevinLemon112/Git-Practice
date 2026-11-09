@@ -1,4 +1,4 @@
 # Git Practice
 Learning Git step by step.
-I am learning Git collaboration directly on GitHub.
+I am practicing Git collaboration through GitHub's web editor.
 Practicing how to pull remote changes into my local repository.
